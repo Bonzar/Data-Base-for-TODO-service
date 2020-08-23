@@ -15,7 +15,7 @@ To recreate the database structure, you need to:
 
 *You can observe the process of creating tables, adding foreign keys, creating triggers, procedures, functions, and views in the corresponding files.*
       
-### Filled darabase
+### Filled database
 To recreate a full database, upload its dump (from the "full_DB" directory) in your MySQL client:
   1. Create database 'Data-Base-for-TODO-service' in your MySQL client:
   
